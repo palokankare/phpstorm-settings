@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -19,4 +22,5 @@
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt #10000a7" />
   </action>
+  <action id="WD.UploadCurrentRemoteFileAction" />
 </keymap>
