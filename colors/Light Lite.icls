@@ -4,7 +4,7 @@
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-01-20T23:35:18</property>
+    <property name="modified">2020-01-29T10:24:00</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -39,11 +39,25 @@
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
+    <option name="BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="ff2c1f" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value />
     </option>
-    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
-      <value />
+    <option name="BLADE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fffbf2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="ff4b00" />
+      </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
