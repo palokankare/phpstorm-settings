@@ -10,6 +10,12 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
