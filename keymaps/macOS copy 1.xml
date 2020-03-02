@@ -35,5 +35,11 @@
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt #10000a7" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="WD.UploadCurrentRemoteFileAction" />
 </keymap>
