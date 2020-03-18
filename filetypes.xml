@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
     </extensionMap>
