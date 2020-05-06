@@ -1,12 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isDecoratedFolders" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="6" />
-    <option name="accentColor" value="323232" />
-    <option name="selectedTheme" value="nightowl-carbon" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="154f68ab:16fc4d1ae59:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
