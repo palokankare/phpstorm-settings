@@ -4,7 +4,7 @@
     <property name="created">2020-01-20T23:17:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-03-10T23:33:17</property>
+    <property name="modified">2020-05-11T14:50:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -12,13 +12,14 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
