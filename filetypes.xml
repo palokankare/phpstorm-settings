@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ContactPersonResourceCollection" type="PHP" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
