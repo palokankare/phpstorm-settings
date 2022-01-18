@@ -1,6 +1,6 @@
 <application>
   <component name="laravelTinker">
-    <option name="executionsCount" value="1" />
+    <option name="executionsCount" value="7" />
     <option name="migrateVersion" value="2.3.1" />
   </component>
 </application>
