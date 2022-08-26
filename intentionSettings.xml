@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Replace if clause with ternary expression" />
+    <ignoreAction name="PHP/Add @property" />
   </component>
 </application>
